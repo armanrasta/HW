@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.button {
+    width: 30%;
+    height: 130px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.button1 {
+    background-color: blue;
+    color: white;
+}
+.button2 {
+    background-color: green;
+    color: white;
+}
+.button3 {
+    background-color: orange;
+    color: white;
+}
+.button4 {
+    background-color: red;
+    color: white;
+}
+.button5 {
+    background-color: blue;
+    color: white;
+    border-radius: 65px;
+}
+.button6 {
+    background-color: green;
+    color: white;
+    border-radius: 65px;
+}
+.button7 {
+    background-color: orange;
+    color: white;
+    border-radius: 65px;
+}
+.button8 {
+    background-color: red;
+    color: white;
+    border-radius: 65px;
+}
+.button9 {
+    background-color: white;
+    color: blue;
+    border: 5px solid blue;
+}
+.button10 {
+    background-color: white;
+    color: green;
+    border: 5px solid green;
+}
+.button11 {
+    background-color: white;
+    color: orange;
+    border: 5px solid orange;
+}
+.button12 {
+    background-color: white;
+    color: red;
+    border: 5px solid red;
+
+}
